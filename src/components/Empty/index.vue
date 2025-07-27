@@ -10,7 +10,7 @@
 .container-column-center {
   display: flex;
   flex-direction: column;
-  justify-container: center;
+  justify-content: center;
   align-items: center;
 }
 
